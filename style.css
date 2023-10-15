@@ -8,7 +8,7 @@ body{
     border-radius: 20%;
     display: flex;
     justify-content: center;
-    margin-left: 80vb;
+    margin-left: 75vb;
     
     margin-top: 2%;
     border: none;    
@@ -39,7 +39,13 @@ body{
 }
 
 .meme-title, .meme-author{
-    margin-left: 30%;
+    justify-content: center;
+    display: flex;
     
 }
+
+.click-here{
+    margin-left: 67vb;
+}
+
 
